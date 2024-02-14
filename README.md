@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**nickjava/nickjava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" text-align="center">
+<!--   <br><br> -->
+  <br><br>
+  <a href="https://www.linkedin.com/in/nikhithvasa/"><img height="18" width="18" src="./linkedin.svg" /></a>
+  <a href="https://twitter.com/Nickvasa0"><img height="18" width="18" src="./twitter.svg" /></a>
+  <a href="mailto:vasanikhith@gmail.com"><img height="18" width="18" src="./gmail.svg" /></a><br><br>
+  <a href="#>My Portfolio</a>
+  <br>
+  <i>while( ! ( succeed = try() ) );  ☢️</i>
+</p>
