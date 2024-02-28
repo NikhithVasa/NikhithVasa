@@ -7,7 +7,7 @@
     
   **Location:** USA
   
-  **Contact:** [personal website](https://nikhithvasa.com/) or [Twitter/X](https://x.com/Nickvasa0/) or [LinkedIn](https://www.linkedin.com/in/nikhithvasa)
+  **Contact:** [portfolio website](https://nikhithvasa.com/) or [Twitter/X](https://x.com/Nickvasa0/) or [LinkedIn](https://www.linkedin.com/in/nikhithvasa)
   
   <br />
 
