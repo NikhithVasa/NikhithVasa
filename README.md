@@ -3,7 +3,7 @@
   
   <br /><br />
   
-  <h3>Nikhith Vasa - Full staack developer.</h3>
+  <h3>Nikhith Vasa - Full stack developer.</h3>
     
   **Location:** USA
   
